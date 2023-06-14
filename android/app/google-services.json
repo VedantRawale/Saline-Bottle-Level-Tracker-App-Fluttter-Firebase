@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752730728504",
+    "firebase_url": "https://saline-level-detector-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "saline-level-detector",
+    "storage_bucket": "saline-level-detector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752730728504:android:81bbb92e223bd1de6fdecd",
+        "android_client_info": {
+          "package_name": "com.example.saline_detector_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752730728504-9e5ida1id1tcboj2veusb35dtuu6ckq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1QUHFVumow8tFiVqEcSXKcjo8e6ycuOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752730728504-9e5ida1id1tcboj2veusb35dtuu6ckq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
