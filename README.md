@@ -1,21 +1,18 @@
-<<<<<<< HEAD
-# saline_detector_app
+SALINE LEVEL TRACKER APP (FLUTTER AND FIREBASE) !!
 
-A new Flutter project.
+PRIMARY GOAL:
+A LOT OF PATIENTS DIED DURING THE COVID PANDEMIC BECAUSE OF LACK OF STAFF IN HOSPITAL TO LOOK AT AN INDIVIDUAL. SO WE DECIDED TO COME UP WITH AN APP WHICH WOULD KEEP 
+REALTIME TRACK OF IV BAGS (SALINE BAGS) LEVEL FOR EACH BED IN HOSPITAL AND GIVE ALERTS WHEN NECESSARY...
 
-## Getting Started
+SEE THIS IS A COMPLETE SOFTWARE + HARDWARE PROJECT:
+1) HARDWARE SETUP: WE ATTACHED WEIGHT SENSOR TO EACH OF THE STANDS WHERE WE WOULD HANG OUR SALINE BOTTLE.THEN WE CALIBRATED IT AS REQUIRED AND CONNECTED IT
+WITH "NODE MCU" WHICH IS A WIFI MODULE WHICH TRANSFERRED THE REALTIME DATA i.e THE REALTIME WEIGHT OF BOTTLE TO THE FIREBASE DATABASE.
+2) SOFTWARE SETUP : WE DEVELOPED A FLUTTER APP WITH REALTIME UI UPDATES i.e, THE LEVEL OF BOTTLE FOR EACH BED UPDATES IN REALTIME AND GIVES AN ALERT NOTIFICATION
+WHEN THE LEVEL REACHES BELOW A THRESHOLD VALUE. WE ALSO ADDED THE LOGIN AND SIGNUP FUNCTIONALITY WITH AUTHENTICATION.
 
-This project is a starting point for a Flutter application.
+LEARNINGS:
+FLUTTER STATE MANAGEMENT / FIREBASE / ANIMATION / AUTHENTICATION / NOTIFICATION ALERT
 
-A few resources to get you started if this is your first Flutter project:
+THIS IS THE IMAGE OF HOW THE USER INTERFACE LOOKED LIKE ! THE BOTTLE VIEW AND ANIMATION OF WATER-WAVE WAS A REAL CHALLENGE !
+![image](https://github.com/VedantRawale/Saline-Bottle-Level-Tracker-App-Fluttter-Firebase/assets/122515373/faa061ad-aad6-4dc5-b709-a9cfeef03173)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Saline-Bottle-Level-Tracker-App-Flutter-Firebase
-Tracks the realtime level of saline bottles of individual beds in hospital ...
->>>>>>> 51d7091b372a97d02d06bd9046c56a25b1eb824f
